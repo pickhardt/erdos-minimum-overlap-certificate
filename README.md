@@ -1,6 +1,10 @@
 # A certified lower bound for Erdős' minimum overlap constant
 
-This directory contains an explicit certificate for the bound
+This directory contains an explicit certificate for the paper
+
+[A certified lower bound μ ≥ 0.380020 for Erdos’ minimum overlap problem](https://paratelligent.com/research/papers/a-certified-lower-bound-0380020-for-erdos-minimum-overlap-v4aSr6Zh)
+
+The bound is shown to be
 
 > **μ ≥ 0.380020**
 
